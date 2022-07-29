@@ -1,5 +1,6 @@
 header{
-    height: 200px;
+    height: 100px;
+    padding: 20px;
 }
 .bg-light{
     background-color: rgba(227, 192, 149, 0.61)!important;
